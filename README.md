@@ -1,4 +1,4 @@
-#Demo view --> [here](https://simple-chess-game.netlify.app/)
+# Demo view --> [here](https://simple-chess-game.netlify.app/)
 
 # Getting Started with Create React App
 
